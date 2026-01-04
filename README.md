@@ -305,13 +305,6 @@ It is a classic demonstration of how 3D graphics concepts can be implemented usi
 
 ---
 
-## How to Compile and Run
-
-### Compile
-```bash
-gcc donut.c -o donut -lm
-````
-
 ### Run
 
 ```bash
