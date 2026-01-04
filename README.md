@@ -23,7 +23,7 @@ This program prints a name **without using a semicolon** by utilizing the return
 #include <stdio.h>
 
 int main() {
-    if (printf("Tanmay Student"))
+    if (printf("Tanmay Singh 1st Year"))
     {
     }
     return 0;
@@ -33,7 +33,7 @@ int main() {
 ### Output
 
 ```
-Tanmay Student
+Tanmay Singh 1st Year
 ```
 
 ---
