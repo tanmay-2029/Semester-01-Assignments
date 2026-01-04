@@ -304,11 +304,3 @@ It is a classic demonstration of how 3D graphics concepts can be implemented usi
 - Infinite Loop Animation
 
 ---
-
-### Run
-
-```bash
-./donut
-```
-
----
